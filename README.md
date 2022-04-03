@@ -7,3 +7,5 @@ cmd line args 2 - name of the word list file - in my case test.txt<br><br>
 cmd line args 3 - success status codes, enter list of success status codes without spaces & separated by comma ','<br><br>
 
 Preview - 
+![1](https://user-images.githubusercontent.com/65656547/161426348-dbdbd215-8d9c-46cf-b1f5-7d3ae6b828ae.PNG)
+
