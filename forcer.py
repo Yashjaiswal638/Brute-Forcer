@@ -30,12 +30,14 @@ def userInput():
         fileInput = sys.argv[2]
         try :
             url = sys.argv[1]
-            url = url[1:-1]
+            if url[0] == "[" and url[-1] == "]":
+                url = url[1:-1]
         except : url = ""
 
         try:
             codes = sys.argv[3]
-            codes = codes[1:-1]
+            if codes[0] == "[" and codes[-1] == "]":
+                codes = codes[1:-1]
         except:
             codes = []
 
