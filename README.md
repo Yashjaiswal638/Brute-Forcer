@@ -1,5 +1,5 @@
-# Brute-Forcer-Assignment
-A minimal web path brute-forcer which displays the list of URLs that responded with any of the success status codes as provided in the input by the user.
+# Brute-Forcer
+A minimal web path brute-forcer that displays the list of URLs that responded with any of the success status codes as provided in the input by the user.
 
 Install Requirements - pip3 install -r requirements.txt<br><br>
 ![Screenshot from 2022-04-04 03-21-40](https://user-images.githubusercontent.com/65656547/161437672-507baaad-8662-4af8-926c-984b6c583daa.png)
