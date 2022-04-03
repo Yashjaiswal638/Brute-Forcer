@@ -5,8 +5,10 @@ Install Requirements - pip3 install -r requirements.txt<br><br>
 ![Screenshot from 2022-04-04 03-21-40](https://user-images.githubusercontent.com/65656547/161437672-507baaad-8662-4af8-926c-984b6c583daa.png)
 
 Input Format - **python forcer.py [github.com,google.com,w3schools.com] wordlist.txt [200,301]**<br><br>
+Input Format - **python forcer.py github.com,google.com,w3schools.com wordlist.txt 200,301**<br><br>
 
-cmd line args 1 - [github.com,google.com,w3schools.com,yahoo.com], just enter the list of websites in form of [google.com,github.com] without spaces & separeated by a comma','<br><br>
+
+cmd line args 1 - [github.com,google.com,w3schools.com,yahoo.com], just enter the list of websites in form of **[google.com,github.com]** or **google.com,github.com** without spaces & separeated by a comma','<br><br>
 
 cmd line args 2 - name of the word list file - in my case test.txt<br><br>
 
@@ -22,3 +24,5 @@ single url - <br><br>
 
 multiple url - <br><br>
 ![Screenshot from 2022-04-04 03-28-21](https://user-images.githubusercontent.com/65656547/161438122-75813562-216d-4984-8704-80a0bf121934.png)
+
+![Screenshot from 2022-04-03 22-25-17](https://user-images.githubusercontent.com/65656547/161439045-9ba6d58e-0dff-4626-a6fb-5dbbda218bab.png)
