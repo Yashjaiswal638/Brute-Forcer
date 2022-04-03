@@ -4,7 +4,7 @@ A minimal web path brute-forcer which displays the list of URLs that responded w
 Install Requirements - pip3 install -r requirements.txt<br><br>
 ![Screenshot from 2022-04-04 03-21-40](https://user-images.githubusercontent.com/65656547/161437672-507baaad-8662-4af8-926c-984b6c583daa.png)
 
-Input Format - python forcer.py [github.com,google.com,w3schools.com,yahoo.com] wordlist.txt [200,301]<br><br>
+Input Format - **python forcer.py [github.com,google.com,w3schools.com,yahoo.com] wordlist.txt [200,301]**<br><br>
 
 cmd line args 1 - [github.com,google.com,w3schools.com,yahoo.com], just enter the list of websites in form of [google.com,github.com] without spaces & separeated by a comma','<br><br>
 
